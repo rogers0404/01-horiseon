@@ -78,7 +78,13 @@ First Assignment in UCF Code Boot Camp
                     margin: auto 20px;
 }
 
+7. Adding unique ID attribute in element DIV in section content, because it does not work originally
+    "id=search-engine-optimization"
+
+8. Adding Title: Horiseon, Search Engine for Business
+
+
 
 Screenshots:
 
-![](./asset/images/01-html-css-git-homework-demo.png)
+![](./Develop/assets/images/01-html-css-git-homework-demo.png)
