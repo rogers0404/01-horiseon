@@ -43,9 +43,9 @@ First Assignment in UCF Code Boot Camp
 
 
 - Eliminated Classes / Selectors
-    * .search-engine-optimization img
-    * .online-reputation-management img
-    * .social-media-marketing img
+    * .search-engine-optimization h2
+    * .online-reputation-management h2
+    * .social-media-marketing h2
     Reasons: they have the same attributes each other
     replaced by .content div h2 {} declaration
 
@@ -87,4 +87,4 @@ First Assignment in UCF Code Boot Camp
 
 Screenshots:
 
-![](./Develop/assets/images/01-html-css-git-homework-demo.png)
+![](./assets/images/01-html-css-git-homework-demo.png)
