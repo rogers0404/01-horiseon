@@ -83,6 +83,11 @@ First Assignment in UCF Code Boot Camp
 
 8. Adding Title: Horiseon, Search Engine for Business
 
+9. Adding attribute alt to Image Tags
+
+10. Eliminated closing image tag in Section Benefits - Cost Management and using just one tag 
+    <img src="..." .../>
+
 
 
 Screenshots:
