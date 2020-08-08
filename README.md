@@ -8,6 +8,7 @@ Deployed Application:
 
 GitHub Repository:
     https://github.com/rogers0404/01-horiseon.git
+    git@github.com:rogers0404/01-horiseon.git 
 
 
 Commits:
