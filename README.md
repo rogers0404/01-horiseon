@@ -1,97 +1,67 @@
-# 01-horiseon
-# Code Refactor Starter Code
+# Horiseon
 
-URLs
+## Description 
 
-Deployed Application: 
-    https://rogers0404.github.io/01-horiseon/
-
-GitHub Repository:
-    https://github.com/rogers0404/01-horiseon.git
-    
-    git@github.com:rogers0404/01-horiseon.git 
+Horiseon is a web site for Marketing Agencies made in CSS and HTML.
 
 
-Commits:
+## Table of Contents
 
-First Assignment in UCF Code Boot Camp
-
-1. Adding Comments to style.css and index.html
-
-2. Checking the proper identation and reorganizing in both file
-
-3. Header Section:
-- Eliminated the original div tag section by Header Tag in index.html file
-- Eliminated class .header by element header in style.css file
-
-4. Fotter Section:
-- Eliminated the original div tag section by Footer Tag in index.html file
-- Eliminated class .footer by element header in style.css file
-
-5. Content Section
-- Eliminated Classes 
-    * .search-engine-optimization
-    * .online-reputation-management
-    * .social-media-marketing
-    Reasons: they have the same name like ankles in the header section and they have the same attributes each other
-    Replaced by .content div {} declaration
-
-- Eliminated Classes / Selectors
-    * .search-engine-optimization img
-    * .online-reputation-management img
-    * .social-media-marketing img
-    Reasons: they have the same attributes each other
-    Replaced by .content div img {} declaration
+* [URLs](#urls)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#Contributing)
+* [License](#license)
+* [Test](#Test)
+* [Questions](#questions)
+* [Screenshots](#screenshots)
 
 
-- Eliminated Classes / Selectors
-    * .search-engine-optimization h2
-    * .online-reputation-management h2
-    * .social-media-marketing h2
-    Reasons: they have the same attributes each other
-    replaced by .content div h2 {} declaration
+## URLs
 
-6. Benefits Section
-- Eliminated Classes 
-    * .benefit-lead
-    * .benefit-brand
-    * .benefit-cost
-    Reasons: they have the same attributes each other
-    replaced by .benefits div {} declaration
+* Deployed Application: 
+    - [https://rogers0404.github.io/01-horiseon/](https://rogers0404.github.io/01-horiseon/) (live)
 
-- Eliminated Classes / Selectors
-    * .benefit-lead h3
-    * .benefit-brand h3
-    * .benefit-cost h3
-    Reasons: they have the same attributes each other
-    replaced by .benefits div h3{} declaration
+* GitHub Repository:
+    - [HTTPS: https://github.com/rogers0404/01-horiseon.git](https://github.com/rogers0404/01-horiseon.git)
+    - [GIT: git@github.com:rogers0404/01-horiseon.git](git@github.com:rogers0404/01-horiseon.git)
 
-- Eliminated Classes / Selectors
-    * .benefit-lead img
-    * .benefit-brand img
-    * .benefit-cost img
-    Reasons: they have the same attributes each other
-    replaced by .benefits div img{} declaration
+## Installation
 
-- Adding style to p tag inside Benefits Section, 
-    Reason: to match with the mock up given to the challenge
-    .benefits div p{
-                    font-size: 16px;
-                    margin: auto 20px;
-}
+You need some packages to run this application, 
 
-7. Adding unique ID attribute in element DIV in section content, because it does not work originally
-    "id=search-engine-optimization"
+- `git clone git@github.com:rogers0404/01-horiseon.git        //clone the repository and use it for your own purposes`
 
-8. Adding Title: Horiseon, Search Engine for Business
+## Usage 
 
-9. Adding attribute alt to Image Tags
+None
 
-10. Eliminated closing image tag in Section Benefits - Cost Management and using just one tag 
-    <img src="..." .../>
+## Contributing
+
+* Rogers Ramirez, Github User: [rogers0404](http://github.com/rogers0404)
 
 
+## License
 
-Screenshots:
+Horiseon is licensed under the
+
+![v1](https://img.shields.io/static/v1?label=License&message=None&color=inactive&&style=plastic)
+
+None
+
+## Test
+
+None
+
+## Questions
+
+If you have any questions about the application, you can check the documentation on my GitHub profile [https://github.com/rogers0404](https://github.com/rogers0404).
+
+for more information you can have a question via email [rogers.ramirez2008@gmail.com](rogers.ramirez2008@gmail.com)  .
+
+
+## Screenshots
+
+### Screenshot 1
 
 ![](./assets/images/01-html-css-git-homework-demo.png)
