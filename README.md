@@ -28,8 +28,6 @@ Horiseon is a web site for Marketing Agencies made in CSS and HTML.
 
 ## Installation
 
-You need some packages to run this application, 
-
 - `git clone git@github.com:rogers0404/01-horiseon.git        //clone the repository and use it for your own purposes`
 - `Open index.html in a Browser`
 
